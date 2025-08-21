@@ -10,9 +10,6 @@ This is a complete recreation of the classic Pong arcade game using Python's `tu
 - Live scoreboard that updates with each point.
 - Object-oriented design using classes for each component (`Paddle`, `Ball`, `Scoreboard`).
 
-## 🧱 File Structure
-
-
 ## 🧑‍💻 Controls
 
 | Player | Move Up | Move Down |
